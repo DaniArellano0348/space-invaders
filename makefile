@@ -15,3 +15,6 @@ bin/ventana:src/ventana.cpp
 
 runventana: bin/ventana
     ./bin/ventana
+iwnhnfruinfruof
+ekdnpiednbdoufdouef
+uir4fhoeufhh2ei
